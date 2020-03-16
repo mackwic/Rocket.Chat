@@ -2,10 +2,10 @@
 	"name": "Rocket.Chat",
 	"description": "The Ultimate Open Source WebChat Platform",
 	"version": "3.1.0-develop",
-	"engine": { "node": "12.16.1" }
+	"engine": { "node": "12.16.1" },
 	"author": {
 		"name": "Rocket.Chat",
-		"url": "https://rocket.chat/"`
+		"url": "https://rocket.chat/"
 	},
 	"mocha": {
 		"tests": [
